@@ -1,1 +1,1 @@
-My first readme edited
+0x00. Shell, basics
